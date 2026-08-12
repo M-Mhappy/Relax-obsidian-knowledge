@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT常用指令/git.md",
+                "file": "数据库/SQLAlchemy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "SQLAlchemy"
             }
           }
         ]
@@ -191,12 +191,12 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "githobs:Manage a github issue": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "4bfc1deaa5605eee",
   "lastOpenFiles": [
+    "GIT常用指令/git.md",
     "附件图片/Pasted image 20260802104538.png",
     "附件图片/Pasted image 20260802104403.png",
     "附件图片/Pasted image 20260802104359.png",
@@ -227,7 +227,6 @@
     "agent开发/RAG.md",
     "欢迎.md",
     "全栈开发/后端/进程基础到异步任务队列的全链路数据流.md",
-    "GIT常用指令/git.md",
     "全栈开发术语解释",
     "GIT常用指令",
     "agent开发/prompt engineering.md",
