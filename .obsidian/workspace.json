@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "全栈开发/前后端完整数据流.md",
+                "file": "开发经验/开发方法论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前后端完整数据流"
+              "title": "开发方法论"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "4bfc1deaa5605eee",
   "lastOpenFiles": [
+    "全栈开发/前后端完整数据流.md",
     "全栈开发/项目部署流程.md",
     "数据库/SQLAlchemy.md",
     "GIT常用指令/git.md",
@@ -221,7 +222,6 @@
     "agent开发/context manage.md",
     "全栈开发/Next.JS.md",
     "未命名.md",
-    "全栈开发/前后端完整数据流.md",
     "数据库",
     "全栈开发/前端/js与jsx区别和联系.md",
     "agent开发/RAG.md",
