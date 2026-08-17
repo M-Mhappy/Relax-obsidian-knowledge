@@ -6,3 +6,4 @@ git add .
 git commit -m""
 git remote add origin https://github.com/M-Mhappy/
 git push -u origin main
+commit忘记添加说明进入vim模式时，添加说明后，按ESC，然后输入：wq
