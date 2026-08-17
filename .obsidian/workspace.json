@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT常用指令/git.md",
+                "file": "加密算法/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "SSH"
             }
           }
         ]
@@ -196,11 +196,14 @@
   },
   "active": "4bfc1deaa5605eee",
   "lastOpenFiles": [
+    "附件图片/SSH握手全流程密钥协商与身份认证.png",
+    "GIT常用指令/git.md",
+    "加密算法/SSH.md",
+    "加密算法",
     "全栈开发/docker.md",
     "数据库/SQLAlchemy.md",
     "数据库/数据库连接池.md",
     "数据库/数据库迁移机制.md",
-    "GIT常用指令/git.md",
     "全栈开发/项目部署流程.md",
     "开发经验/开发方法论.md",
     "全栈开发/前后端完整数据流.md",
@@ -232,7 +235,6 @@
     "agent开发/prompt engineering.md",
     "agent开发",
     "全栈开发/后端",
-    "全栈开发/前端",
-    "全栈开发"
+    "全栈开发/前端"
   ]
 }
